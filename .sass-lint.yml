@@ -1,0 +1,4 @@
+options:
+  formatter: stylish
+files:
+  include: './sass/**/*.s+(a|c)ss'

@@ -1,0 +1,22 @@
+{
+    "parser": "babel-eslint",
+    "parserOptions": {
+        "ecmaFeatures": {
+            "jsx": true
+        }
+    },
+    "env": {
+        "browser": true,
+        "node": true
+    },
+    "plugins": [
+        "react"
+    ],
+    "extends": [
+        "eslint:all",
+        "plugin:react/all"
+    ],
+    "rules": {
+        "linebreak-style": 0
+    }
+}
