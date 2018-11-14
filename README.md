@@ -11,7 +11,7 @@ $ cd frontend-boiler
 $git clone git@github.com:ravi4jfrontend-boiler.git
 ```
 
-## Pre-requesite reading
+## Pre-requisites reading
  - Webpack
  - Express
  - Gulp
@@ -20,7 +20,7 @@ $git clone git@github.com:ravi4jfrontend-boiler.git
  - Babel
 
 
-### Runnung the application
+### Install and Run 
 - npm install
 - gulp
 
