@@ -21,7 +21,7 @@ $git clone git@github.com:ravi4jfrontend-boiler.git
 
 
 ### Runnung the application
-## npm istall
-## gulp
+- npm install
+- gulp
 
 
